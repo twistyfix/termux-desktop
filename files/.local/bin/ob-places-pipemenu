@@ -10,7 +10,7 @@
 # make sure you have al-recent-files-pipemenu, and enter its path below.
 
 readonly terminal=xfce4-terminal
-readonly text_editor=geany
+readonly text_editor=leafpad
 readonly open_folder_cmd=thunar
 readonly default_open_cmd=exo-open
 readonly recent_script=$HOME/.local/bin/ob-recent-files-pipemenu

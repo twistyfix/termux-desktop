@@ -53,9 +53,9 @@ usage() {
 }
 
 ## Update, X11-repo, Program Installation
-_pkgs=(bc bmon calc calcurse curl dbus desktop-file-utils elinks feh fontconfig-utils fsmon \
-		git gtk2 gtk3 htop imagemagick jq leafpad man mpc mpd mutt ncmpcpp \
-		ncurses-utils neofetch obconf openbox openssl-tool polybar firefox rofi \
+_pkgs=(bc calc calcurse curl dbus desktop-file-utils fontconfig-utils \
+		git gtk2 gtk3 htop imagemagick leafpad man mpc mpd ncmpcpp \
+		ncurses-utils obconf openbox openssl-tool polybar firefox rofi neovim \
 		startup-notification termux-api thunar tigervnc wget xarchiver xbitmaps xcompmgr \
 		xfce4-settings xfce4-terminal xmlstarlet xorg-font-util xorg-xrdb zsh)
 

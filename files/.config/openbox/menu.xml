@@ -26,7 +26,7 @@
 		<menu id="root-menu-srct" label="Terminal">
 			<item label="Neovim">
 				<action name="Execute">
-					<execute>xfce4-terminal -e neovim</execute>
+					<execute>xfce4-terminal -e nvim</execute>
 				</action>
 			</item>
 			<item label="Nano">
